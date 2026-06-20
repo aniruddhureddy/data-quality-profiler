@@ -1,0 +1,25 @@
+id,name,email,age,signup_date,salary
+1001,Alice Johnson,alice@example.com,28,2023-01-15,75000
+1002,Bob Smith,bob@example.com,34,2023-02-20,82000
+1003,Charlie Brown,charlie@example.com,45,2023-03-10,95000
+1004,Diana Prince,,29,2023-04-05,88000
+1005,Eve Adams,eve@example.com,,2023-05-12,72000
+1006,Frank Miller,frank@example.com,52,invalid-date,105000
+1007,Grace Lee,grace@example.com,31,2023-07-18,68000
+1008,Henry Wilson,henry@example.com,150,2023-08-22,91000
+1009,Ivy Chen,ivy@example.com,27,2023-09-30,79000
+1010,Jack Taylor,jack@example.com,38,2023-10-14,87000
+1001,Kate Morgan,kate@example.com,33,2023-11-01,84000
+1012,Liam O'Brien,liam@example.com,41,2023-12-05,92000
+1013,Mia Garcia,mia@example.com,25,2024-01-10,65000
+1014,Noah Davis,noah@example.com,36,,78000
+1015,Olivia White,olivia@example.com,29,2024-03-15,81000
+1016,Peter Jones,peter@example.com,17,2024-04-20,55000
+1017,Quinn Reed,quinn@example.com,44,2024-05-25,98000
+1018,Rachel Green,rachel@example.com,32,2024-06-30,86000
+1019,Sam Brown,sam@example.com,39,2024-07-15,89000
+1020,Tina Turner,tina@example.com,28,2024-08-01,74000
+1021,Alice Johnson,alice@example.com,30,2024-09-10,76000
+1022,Unnamed User,not-an-email,abc,2024-10-05,500000
+1023,,missing@example.com,35,2024-11-12,83000
+1024,Victor Hugo,victor@example.com,48,2024-12-01,

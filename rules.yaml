@@ -1,0 +1,37 @@
+# Data Quality Rules Configuration
+# Define validation rules per column. Supported rule types:
+#   not_null: true/false
+#   unique: true/false
+#   type: numeric | text | date
+#   min_value / max_value: numbers (for numeric columns)
+
+columns:
+  id:
+    not_null: true
+    unique: true
+    type: numeric
+
+  name:
+    not_null: true
+    type: text
+
+  email:
+    not_null: true
+    unique: true
+    type: text
+
+  age:
+    not_null: true
+    type: numeric
+    min_value: 18
+    max_value: 100
+
+  signup_date:
+    not_null: true
+    type: date
+
+  salary:
+    not_null: false
+    type: numeric
+    min_value: 30000
+    max_value: 250000
